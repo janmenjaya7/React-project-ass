@@ -19,7 +19,7 @@ function Blog() {
           </div>
           <div className="main-text">
             <div className="text-summary">Summary of SAT 2023 Results</div>
-            <div>
+            <div className="text-des-summary">
               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
               nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
               erat, sed diam voluptua. At vero eos et accusam et justo duo
@@ -34,7 +34,7 @@ function Blog() {
           </div>
           <div className="main-text">
             <div className="text-summary">Summary of SAT 2023 Results</div>
-            <div>
+            <div className="text-des-summary">
               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
               nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
               erat, sed diam voluptua. At vero eos et accusam et justo duo
@@ -49,7 +49,7 @@ function Blog() {
           </div>
           <div className="main-text">
             <div className="text-summary">Summary of SAT 2023 Results</div>
-            <div>
+            <div className="text-des-summary">
               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
               nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
               erat, sed diam voluptua. At vero eos et accusam et justo duo

@@ -38,7 +38,7 @@
     .input-section {
       display: flex;
       flex-direction: column;
-      gap: 20px;
+      gap: 30px;
       margin: auto;
       width: 60%;
 
@@ -69,7 +69,6 @@
     }
   }
 
-
   @media (max-width: 1200px) {
     .input-main {
       .heading-text {
@@ -79,7 +78,7 @@
         font-size: 20px;
       }
       .input-section {
-        width: 70%; 
+        width: 70%;
       }
     }
   }
@@ -89,7 +88,7 @@
 
     .img-demo {
       width: 100%;
-      max-width: 400px; 
+      max-width: 400px;
       margin-top: 20px;
     }
 
@@ -101,7 +100,7 @@
         font-size: 18px;
       }
       .input-section {
-        width: 80%; 
+        width: 80%;
       }
     }
   }
@@ -115,14 +114,14 @@
         font-size: 16px;
       }
       .input-section {
-        width: 100%; 
+        width: 100%;
 
         .input-type {
-          font-size: 14px; 
+          font-size: 14px;
         }
 
         .btn-sec {
-          width: 100%; 
+          width: 100%;
           padding: 12px 0;
           font-size: 16px;
         }
@@ -130,7 +129,7 @@
     }
 
     .img-demo {
-      display: none; 
+      display: none;
     }
   }
 }
